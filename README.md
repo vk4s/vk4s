@@ -25,6 +25,6 @@ Here are some ideas to get you started:
 <a href="https://github.com/vikaspatelp83/dnote-sql">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vikaspatelp83&repo=dnote-sql" />
 </a>
-<a href="https://github.com/vikaspatelp83/">
+<a href="https://vikaspatelp83.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikaspatelp83&layout=compact&langs_count=20" />
 </a>
