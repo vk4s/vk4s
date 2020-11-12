@@ -25,6 +25,6 @@ Here are some ideas to get you started:
 <a href="https://github.com/vikaspatelp83/dnote-sql">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vikaspatelp83&repo=dnote-sql" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=JavaScript,TypeScript,HTML,CSS,GLSL,Objective-c&layout=compact&langs_count=20" />
+<a href="https://github.com/vikaspatelp83/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikaspatelp83&layout=compact&langs_count=20" />
 </a>
