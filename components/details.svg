@@ -30,7 +30,7 @@
 					border: 1px solid pink;
 					border-radius: 5px;
 					padding: 10px;
-					background-color: gray;
+					background-color: rgb(8, 8, 8);
 				}
 				.details > li {
 					list-style: none;

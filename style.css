@@ -36,3 +36,7 @@
 .details > li {
   list-style: none;
 }
+
+.details {
+  background-color: rgb(8, 8, 8);
+}
