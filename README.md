@@ -27,10 +27,10 @@
 	<p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=vikaspatelp83&show_icons=true&locale=en&layout=compact&theme=dracula" alt="vikaspatelp83 most used languages" /></p>
 	<!-- TROPHIES -->
 	<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img style="" src="https://github-profile-trophy.vercel.app/?username=vikaspatelp83&theme=dracula" alt="vikaspatelp83 profile trophies" /></a> </p>
-    <p align="center">
+    <!-- <p align="center">
     	<a href="https://raw.githubusercontent.com/vikaspatelp83/vikaspatelp83/main/README.md">
     		<img src="./components/details.svg" width="auto" height="auto" alt="Blog Links">
     	</a>
-    </p>
+    </p> -->
 
 </div>
