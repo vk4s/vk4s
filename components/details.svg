@@ -36,7 +36,7 @@
 					list-style: none;
 				}
 				.details > li > p {
-					color: d87093
+					color: #d87093
 				}
 			</style>
 			<div class="container">
