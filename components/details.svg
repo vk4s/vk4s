@@ -1,0 +1,61 @@
+<svg fill="none" viewBox="0 0 800 400" width="800" height="400" xmlns="http://www.w3.org/2000/svg">
+	<foreignObject width="100%" height="100%">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+			<style>
+				.menu {
+					margin: 10px;
+					/* display: inline-block; */
+				}
+				.menu > .menu-item > a {
+					text-decoration: none;
+					color: palevioletred;
+					font-weight: bolder;
+					text-transform: uppercase;
+				}
+				.menu > .menu-item {
+					display: inline-block;
+					margin: 5px;
+					padding: 10px;
+					border: 1px solid pink;
+					border-radius: 10px;
+				}
+				.menu > .menu-item:hover {
+					background-color: papayawhip;
+					border-radius: 10px;
+				}
+				.details {
+					display: block;
+					width: 80%;
+					margin: auto;
+					border: 1px solid pink;
+					border-radius: 5px;
+					padding: 10px;
+				}
+				.details > li {
+					list-style: none;
+				}
+			</style>
+			<div class="container">
+				<!-- DETAILS -->
+				<ul class="details" align="center">
+					<li>
+						<p> 🌱 I’m currently learning Nodejs </p>
+					</li>
+					<li>
+						<p> 👯 I’m looking to collaborate on Django </p>
+					</li>  
+					<li>
+						<p> I’m looking for help with full stack </p>
+					</li>
+					<li>
+						<p> 💬 Ask me about Programming and Life </p>
+					</li>
+				</ul>
+			</div>
+		</div>
+	</foreignObject>
+</svg>
+
+
+
+		
