@@ -1,13 +1,54 @@
-<link rel="stylesheet" href="./style.css">
+<!-- <link rel="stylesheet" href="./style.css"> -->
+
+<style>
+  #name {
+    color: palevioletred;
+  }
+
+  .menu {
+    margin: 10px;
+    /* display: inline-block; */
+  }
+
+  .menu > .menu-item > a {
+    text-decoration: none;
+    color: palevioletred;
+    font-weight: bolder;
+    text-transform: uppercase;
+  }
+  .menu > .menu-item {
+    display: inline-block;
+    margin: 5px;
+    padding: 10px;
+    border: 1px solid pink;
+    border-radius: 10px;
+  }
+  .menu > .menu-item:hover {
+    background-color: papayawhip;
+    border-radius: 10px;
+  }
+
+  .details {
+    display: block;
+    width: 80%;
+    margin: auto;
+    border: 1px solid pink;
+    border-radius: 5px;
+    padding: 10px;
+  }
+  .details > li {
+    list-style: none;
+  }
+
+</style>
 
   <!-- PROFILE VIEWS -->
 <p align="right" style="line-height:1em"> 
 <img  style="width:100px" src="https://komarev.com/ghpvc/?username=vikaspatelp83&label=Profile%20views&color=d87093&style=flat" alt="vikaspatelp83 profile views" /> </p>
 
 <!-- NAME -->
-<h1 id="name" align="center" style="font-weight:bolder; font-size:4em; line-height:1em">Vikash Patel</h1>
+<h1 id="name" align="center" style="font-weight:bolder; font-size:4em">Vikash Patel</h1>
 
-<br>
 <!-- BLOG LINK -->
 <ul class="menu" align="center">
   <li class="menu-item">
