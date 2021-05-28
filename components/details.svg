@@ -30,9 +30,13 @@
 					border: 1px solid pink;
 					border-radius: 5px;
 					padding: 10px;
+					background-color: gray;
 				}
 				.details > li {
 					list-style: none;
+				}
+				.details > li > p {
+					color: d87093
 				}
 			</style>
 			<div class="container">
