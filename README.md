@@ -10,7 +10,7 @@
 	👯 I’m looking to collaborate on Django  <br>
 	✌ I’m looking for help with full stack  <br>
 	💬 Ask me about Programming and Life  <br>
-	📖 Read awesome articles at <a href="https://www.lorbic.com" target="_BLANK"> Lorbic </a> <be>
+	📖 Read awesome articles at <a href="https://www.lorbic.com" target="_BLANK"> Lorbic </a> <br>
 	📖 Read my <a href="https://vikaspatelp83.github.io">Personal Blog</a> and  <br>
 	📚 My <a href="https://villageprogrammer.blogspot.com">Tech Blog</a>  <br>
 	📧 Contact me by <a href="mailto:vikash@lrbc.ml" alt="vikash@lrbc.ml">writing an email</a><br>
