@@ -6,7 +6,7 @@
 	<h1 id="name" align="center" style="font-weight:bolder;color: palevioletred; font-size:4em">Vikash Patel</h1>
     <br>
 	<div align="center">
-		<img  style="width:100%" src="./header.svg" alt="vk4s profile header" />
+		<img  style="width:250px; height:auto" src="./header.png" alt="vk4s profile header" />
 	</div>	
 	<br>
 	<p align="left">
