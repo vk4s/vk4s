@@ -115,7 +115,7 @@
 <br>
 <div align='center'>
 
-![license](https://badgen.net/pypi/license/pip/)
+[![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
 ![made-using-Markdown](https://img.shields.io/badge/Made%20using-Markdown-1f425f.svg)
 [![made-by-Vikash](https://img.shields.io/badge/with%20💖%20by-Vikash-cc62c3.svg)](http://vkash.lorbic.com)
 
