@@ -36,11 +36,26 @@
 [![Email](https://img.shields.io/badge/Email-vikash@lrbc.ml-8e62f5?style=for-the-badge&logoColor=)](mailto:lorbic@lrbc.ml)
 
 </div>
-<br>
 
+
+<div align='center'>
+
+## <b>Stats</b>
+
+<!-- GITHUB STATS -->
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=vk4s&theme=dracula&show_icons=true&count_private=true" alt="vk4s github stats" /> </p>
+<!-- GITHUB STREAK -->
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vk4s&theme=dracula" alt="vk4s github streak" /></p>
+<!-- TROPHIES -->
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img style="" src="https://github-profile-trophy.vercel.app/?username=vk4s&theme=dracula" alt="vk4s profile trophies" /></a> </p>
+<!-- MOST USED LANGUAGES -->
+<p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=vk4s&show_icons=true&locale=en&layout=compact&theme=dracula" alt="vk4s most used languages" /></p>
+</div>
+
+<hr>
 <!-- Skills Section -->
 
-<div align='left'>
+<div align='center'>
 
 <details>
   <summary style='font-size:25px'><b> Skills</b></summary>
@@ -69,9 +84,11 @@
 </div>
 
 <!-- Tools Section -->
-
+<div align='center'>
 <details>
   <summary style='font-size:25px'><b>Tools</b></summary>
+
+<div align='left'>
 
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=Linux&style=for-the-badge&logoColor=black)
 ![Windows](https://img.shields.io/badge/-Windows-00adef?logo=windows&style=for-the-badge&logoColor=black)
@@ -91,30 +108,15 @@
 ![Nodejs](https://img.shields.io/badge/-Node%20JS-092E20?logo=Nodedotjs&style=for-the-badge&logoColor=white)
 ![ExpressJs](https://img.shields.io/badge/-express%20js-000000?logo=express&style=for-the-badge&logoColor=white)
 
+</div>
 </details>
-
-<hr>
-
-<div align='center'>
-
-## <b>Stats</b>
-
-<!-- GITHUB STATS -->
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=vk4s&theme=dracula&show_icons=true&count_private=true" alt="vk4s github stats" /> </p>
-<!-- GITHUB STREAK -->
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vk4s&theme=dracula" alt="vk4s github streak" /></p>
-<!-- TROPHIES -->
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img style="" src="https://github-profile-trophy.vercel.app/?username=vk4s&theme=dracula" alt="vk4s profile trophies" /></a> </p>
-<!-- MOST USED LANGUAGES -->
-<p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=vk4s&show_icons=true&locale=en&layout=compact&theme=dracula" alt="vk4s most used languages" /></p>
 </div>
 
-<hr>
 <br>
 <div align='center'>
 
 ![license](https://badgen.net/pypi/license/pip/)
-![made-using-Markdown](https://img.shields.io/badge/Made%using-Markdown-1f425f.svg)
+![made-using-Markdown](https://img.shields.io/badge/Made%20using-Markdown-1f425f.svg)
 [![made-by-Vikash](https://img.shields.io/badge/with%20💖%20by-Vikash-cc62c3.svg)](http://vkash.lorbic.com)
 
 </div>
