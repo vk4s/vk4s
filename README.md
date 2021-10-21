@@ -19,7 +19,7 @@
 
 <div align='center'>
 
-## <b>Check My Work</b>
+### <b>Check My Work</b>
 
 [![Lorbic.com](https://img.shields.io/badge/-lorbic.com-4291ff?style=for-the-badge&logo=blogger&logoColor=ffffff)](https://www.lorbic.com)
 [![villageprogrammer](https://img.shields.io/badge/-villageprogrammer-d6430d?style=for-the-badge&logo=blogger&logoColor=ffffff)](https://villageprogrammer.blogspot.com)
@@ -29,7 +29,7 @@
 
 <div align='center'>
 
-## <b>Let's Connect</b>
+### <b>Let's Connect</b>
 
 [![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/vk4s)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/vikaspatelp83/)
@@ -37,10 +37,9 @@
 
 </div>
 
-
 <div align='center'>
 
-## <b>Stats</b>
+### <b>Stats</b>
 
 <!-- GITHUB STATS -->
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=vk4s&theme=dracula&show_icons=true&count_private=true" alt="vk4s github stats" /> </p>
