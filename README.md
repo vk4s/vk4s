@@ -33,7 +33,7 @@
 
 [![Github](https://img.shields.io/badge/-Github-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/vk4s)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/vikaspatelp83/)
-[![Email](https://img.shields.io/badge/Email-vikash@lrbc.ml-8e62f5?style=for-the-badge&logoColor=)](mailto:lorbic@lrbc.ml)
+[![Email](https://img.shields.io/badge/Email-vikash@lrbc.ml-8e62f5?style=for-the-badge&logoColor=)](mailto:vikash@lrbc.ml)
 
 </div>
 
