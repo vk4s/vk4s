@@ -13,7 +13,7 @@
     📖 Read awesome articles at <a href="https://www.lorbic.com" target="_BLANK"> Lorbic.com </a> <br>
     📖 Read my <a href="https://vk4s.github.io/index.html">Personal Blog</a> and  <br>
     📚 My <a href="https://villageprogrammer.blogspot.com">Tech Blog</a>  <br>
-    📧 Contact me by <a href="mailto:vikash@lrbc.ml" alt="vikash@lrbc.ml">writing an email</a><br>
+    📧 Contact me by <a href="mailto:vikash@lorbic.com" alt="vikash@lorbic.com">writing an email</a><br>
     </p> -->
 </div>
 
