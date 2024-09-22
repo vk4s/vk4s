@@ -1,4 +1,4 @@
-# Greetings, Adventurer
+## Greetings, Adventurer!
 
 
 We don't hunt monsters—we hunt bugs. 
